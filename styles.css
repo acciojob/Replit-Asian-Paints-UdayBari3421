@@ -7,9 +7,7 @@
 .grid-item{
 	background: transparent;
 }
-.grid-container:nth-child[2]{
-	background-color: rgb(255, 0, 0);
-}
+
 #change_button{
 	background-color: rgb(255, 0, 0);
 }
