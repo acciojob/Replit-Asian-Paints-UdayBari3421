@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.grid-container{
+	grid-template-columns: 3;
+	grid-template-rows: 3;
+}
+.square{
+	
+}
